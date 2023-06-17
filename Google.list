@@ -2,6 +2,9 @@
 DOMAIN-KEYWORD,google,Google
 DOMAIN-SUFFIX,265.com,Google
 
+# > Google Voice
+DOMAIN,lens.l.google.com
+
 # > Alphabet Websites 
 DOMAIN-SUFFIX,abc.xyz,Google
 DOMAIN-SUFFIX,capitalg.com,Google
