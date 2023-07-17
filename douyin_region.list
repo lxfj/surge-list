@@ -1,8 +1,4 @@
-# NAME: TikTok
+# NAME: douyin
 # AUTHOR: lxfj
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-KEYWORD,musical.ly
-DOMAIN-KEYWORD,tiktok
-USER-AGENT,TikTok*
-PROCESS-NAME,com.zhiliaoapp.musically
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
