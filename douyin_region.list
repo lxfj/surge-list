@@ -1,3 +1,8 @@
 # NAME: TikTok
 # AUTHOR: lxfj
+DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tiktok
+USER-AGENT,TikTok*
+PROCESS-NAME,com.zhiliaoapp.musically
